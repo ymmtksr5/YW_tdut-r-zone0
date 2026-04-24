@@ -1,0 +1,13 @@
+.header-body{
+ background-color: aquamarine;
+}
+.container {
+  display: flex;    /* 子要素を横並びにする */
+  gap: 50px;        /* 文字同士の間隔を自由に設定（ここを調整） */
+}
+.PreButton{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    gap: 30px;
+}
